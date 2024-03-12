@@ -1,0 +1,140 @@
+.h1{
+            background-color: black;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+
+#hk{
+    /* font-family: "Open Sans", sans-serif; */
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+    padding-top: 55px;
+    font-size: 48px;
+    line-height: 26px;
+    font-weight: 100;
+    color: #000000;
+   
+}
+
+#hk1{
+    padding-top: 30px;
+}
+
+#hk2{
+    padding-top: 20px;
+    font-family: Open Sans;
+    font-size: x-large;
+
+}
+.aaa a{
+  color: white !important;
+}
+.flewss{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  row-gap: 20px;
+  padding-left: 10px;
+
+  
+
+}
+
+.pd-t1{
+  padding-top: 70px;
+  padding-bottom: 40px;
+  font-size: 60px;
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.pd-t{
+    padding-top: 70px;
+    padding-bottom: 70px;
+    font-size: 60px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.flex{
+    display: flex;
+    flex-direction: column;
+    column-gap: 2px ;
+    align-items: center;
+}
+
+
+
+/* activity */
+
+.w-1140{
+    width: 1140px;
+    /* height: 300px; */
+    /* background-color: yellow; */
+    margin: auto;
+    margin-top: 53px;
+  }
+  
+  .round{
+    display: flex;
+    flex-direction: row;
+    /* justify-content: space-around; */
+    /* column-gap: 15px; */
+    /* flex-wrap: wrap; */
+    /* row-gap: 15px; */
+  }
+  
+  .w-570{
+    width: 570px;
+    /* height: 570px; */
+  }
+  .w-570 img{
+    width: 500px;
+    height: 570px;
+    padding-left:140px;
+
+  }
+  .w-570 p{
+    font-size: 45px;
+    padding-bottom: 40px;
+  }
+  .text{
+    font-size: 20px;
+    font-family: serif;
+  }
+  
+  /* card 2 */
+
+  .d-flex{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 40px;
+  }
+
+
+  /* card 3 */
+  .ob{
+    object-fit:scale-down ;
+    background-color: black;
+    border: 12 solid #000000;
+  }
+
+  .flex-1{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 40px;
+
+  }
+
+  .h55{
+    color: aqua;
+  }
+
+  .flex-hh{
+    padding-top: 100px;
+  }
